@@ -1,0 +1,1 @@
+{"id":"11924b3a-1dc6-44d2-a596-552ac3aeadf2","name":"aprobar-ifdp-taskform.frm","model":{"taskName":"aprobar-ifdp","processId":"YPF-PoC.trabajo-pozo","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
