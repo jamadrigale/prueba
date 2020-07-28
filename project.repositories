@@ -4,7 +4,7 @@
       <include>true</include>
       <metadata>
         <id>local</id>
-        <url>/home/jboss/.m2/repository</url>
+        <url>D:\.m2\repository</url>
         <source>LOCAL</source>
       </metadata>
     </repository>
@@ -12,8 +12,8 @@
       <include>true</include>
       <metadata>
         <id>central</id>
-        <url>https://repo1.maven.org/maven2</url>
-        <source>SETTINGS</source>
+        <url>https://repo.maven.apache.org/maven2</url>
+        <source>PROJECT</source>
       </metadata>
     </repository>
   </repositories>
